@@ -1,0 +1,19 @@
+# Core Flask API
+flask==3.0.3
+flask-cors==4.0.0
+
+# Google Gemini LLM + Embeddings
+google-generativeai==0.8.3
+
+# Vector Database (local, no server needed)
+chromadb==0.5.15
+
+# PDF Text Extraction
+pymupdf==1.24.11
+
+# Utilities
+python-dotenv==1.0.1
+tiktoken==0.7.0
+
+# HTTP
+requests==2.32.3
